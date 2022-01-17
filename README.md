@@ -36,3 +36,5 @@ Git clone “endereço do repositório” = clonar o repositório do GitHub
 
 
 Arquivo com o nome .gitignore = arquivo para ignorar oq você deseja pelo git, nesse arquivo eu coloco os arquivos que eu desejo que sejam ignorados com a sua extensão
+
+Efetuandoa alteração para mandar para master
